@@ -1,2 +1,4 @@
 GSTN/Train_60/* filter=lfs diff=lfs merge=lfs -text
 GSTN/Test_20/* filter=lfs diff=lfs merge=lfs -text
+Train_60/* filter=lfs diff=lfs merge=lfs -text
+Test_20/* filter=lfs diff=lfs merge=lfs -text
